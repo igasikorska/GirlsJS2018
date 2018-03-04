@@ -1,0 +1,20 @@
+let i const = var - mo¿emy u¿ywaæ 
+const - nie mam prawa jej zmieniæ , nikt mi jej nie napisze
+
+text_3.toUpperCase(); // HELLO, JACK!
+text_3.toLowerCase(); // hello, jack!
+
+pozycja podtesktu mam np Iga Sikorska i piszê : fullName.indexOf('Iga");
+i mam w fullName='Iga Sikorska'; to zróci mi 0 bo Igajest na pierwszym miejscu.
+
+
+fullName.replace('Iga', 'Kasia'); - zamiana Iga na Kasia
+
+nazwaTabeli.slice(1,3); - wypisze mi 1,2 ale nie 3 bo pierwsze w³¹cznie, ostatnie nie
+
+tablica.splice(od którego elementu, ile elementów usun¹æ, co tam wstawiæ w zmian)
+
+.clientHeight - pobiera wyokoœæ
+.clientWidth - pobiera szerokoœc
+
+
